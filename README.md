@@ -1,5 +1,5 @@
 # SCMultiDir
-Made this to convert html files from a specific interactive story website into a more locally readable format.
+Made this a year os so ago, to convert html files from a specific interactive story website into a more locally readable format.
 Files are from 2019 specifically. likely doesn't work for other years.
 Tested working for most but not all stories from the archive year I have on hand.
 SC stands for "story cleaner". MultiDir as this is the final version which iterates over multiple directories.
